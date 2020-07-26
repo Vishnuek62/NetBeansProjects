@@ -1,0 +1,7 @@
+C:\Program Files\NetBeans 7.4\platform=1424099891144
+cluster.C:/Users/Vishnu EK/Documents/NetBeansProjects/PaintApp/build/cluster=1429853369754
+cluster.C:/Program Files/NetBeans 7.4/platform=1424099891144
+user=1429853369754
+crc=7
+locale=en_US
+branding=paintit

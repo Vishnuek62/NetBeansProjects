@@ -1,0 +1,45 @@
+Findings
+--------------
+Opened these 2 files in netbeans. I got some compilations errors. Some of them solved in my way and created extra java files for code simplicity and refactor.
+
+Changed items
+
+1. code formatted using netbeans IDE
+2. added java doc of each method  when third party developer reading the java doc  it can easy to understand what method can do.
+3. changed inner classes to external POJO classes(DTO) it contains setter and getter. so in future we can easy to add new functionality.
+4. Character is changed to String for the variable "activeClass"
+5. If a method contains 20 lines , better to create submethods and call the method.
+6. Used Java 7,8 properties
+7. local variable inside method can declared as final. make sure when do it
+8. newFileArchive.fields = new ArrayList<MyDto.ArchiveField>();
+this statement contain angular brackets.
+Since Java 7 , it can write this 
+List<String> sampleList = new ArrayList<>(); 
+
+9. use java code conventions (variables starts with small letter)(better is ,class name is not contains underscore)
+10. If you are using String constants, can declare public static final ..
+11. decimal datatype not found in java
+12. try with multiple catch can use like this
+try
+{
+ ...
+}
+catch(Exception1 | Exception2 | Exception3 exe)
+{
+ ...
+}
+But, I think written code in AdminController class is better.
+
+13. In my view, a method returns null is not good way of coding.
+
+
+Also, 
+I checked the available storage  through creating the AdminController object. It is not start upload when checking the condition.
+
+
+Please check my code attached. 
+
+
+--
+Thanks, 
+ 

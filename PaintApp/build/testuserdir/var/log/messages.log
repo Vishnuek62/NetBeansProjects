@@ -1,0 +1,89 @@
+-------------------------------------------------------------------------------
+>Log Session: Thursday, April 23, 2015 10:29:30 PM PDT
+>System Info: 
+  Product Version         = Paint Application 201310111528
+  Operating System        = Windows 8 version 6.2 running on x86
+  Java; VM; Vendor        = 1.7.0_51; Java HotSpot(TM) Server VM 24.51-b03; Oracle Corporation
+  Runtime                 = Java(TM) SE Runtime Environment 1.7.0_51-b13
+  Java Home               = C:\Program Files (x86)\Java\jdk1.7.0_51\jre
+  System Locale; Encoding = en_US (paintit); Cp1252
+  Home Directory          = C:\Users\Vishnu EK
+  Current Directory       = C:\Users\Vishnu EK\Documents\NetBeansProjects\PaintApp
+  User Directory          = C:\Users\Vishnu EK\Documents\NetBeansProjects\PaintApp\build\testuserdir
+  Cache Directory         = C:\Users\Vishnu EK\Documents\NetBeansProjects\PaintApp\build\testuserdir\var\cache
+  Installation            = C:\Users\Vishnu EK\Documents\NetBeansProjects\PaintApp\build\cluster
+                            C:\Program Files\NetBeans 7.4\platform
+                            C:\Program Files\NetBeans 7.4\platform
+  Boot & Ext. Classpath   = C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\classes;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\ext\access-bridge-32.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\ext\dnsns.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\ext\jaccess.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\ext\localedata.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\ext\sunec.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\ext\sunjce_provider.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\ext\sunmscapi.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\ext\sunpkcs11.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\jre\lib\ext\zipfs.jar
+  Application Classpath   = C:\Program Files\NetBeans 7.4\platform\lib\boot.jar;C:\Program Files\NetBeans 7.4\platform\lib\org-openide-modules.jar;C:\Program Files\NetBeans 7.4\platform\lib\org-openide-util-lookup.jar;C:\Program Files\NetBeans 7.4\platform\lib\org-openide-util.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\boot_ja.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\boot_pt_BR.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\boot_ru.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\boot_zh_CN.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\org-openide-modules_ja.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\org-openide-modules_pt_BR.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\org-openide-modules_ru.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\org-openide-modules_zh_CN.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\org-openide-util-lookup_ja.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\org-openide-util-lookup_pt_BR.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\org-openide-util-lookup_ru.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\org-openide-util-lookup_zh_CN.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\org-openide-util_ja.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\org-openide-util_pt_BR.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\org-openide-util_ru.jar;C:\Program Files\NetBeans 7.4\platform\lib\locale\org-openide-util_zh_CN.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\lib\dt.jar;C:\Program Files (x86)\Java\jdk1.7.0_51\lib\tools.jar
+  Startup Classpath       = C:\Program Files\NetBeans 7.4\platform\core\core.jar;C:\Program Files\NetBeans 7.4\platform\core\org-openide-filesystems.jar;C:\Program Files\NetBeans 7.4\platform\core\locale\core_ja.jar;C:\Program Files\NetBeans 7.4\platform\core\locale\core_pt_BR.jar;C:\Program Files\NetBeans 7.4\platform\core\locale\core_ru.jar;C:\Program Files\NetBeans 7.4\platform\core\locale\core_zh_CN.jar;C:\Program Files\NetBeans 7.4\platform\core\locale\org-openide-filesystems_ja.jar;C:\Program Files\NetBeans 7.4\platform\core\locale\org-openide-filesystems_pt_BR.jar;C:\Program Files\NetBeans 7.4\platform\core\locale\org-openide-filesystems_ru.jar;C:\Program Files\NetBeans 7.4\platform\core\locale\org-openide-filesystems_zh_CN.jar;C:\Users\Vishnu EK\Documents\NetBeansProjects\PaintApp\build\cluster\core\locale\core_paintit.jar
+-------------------------------------------------------------------------------
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.22.1 201310111528]
+	org.openide.util [8.33.1 201310111528]
+	org.openide.modules [7.39.1 201310111528]
+	org.openide.filesystems [8.8.1 201310111528]
+	org.netbeans.api.annotations.common/1 [1.21.1 201310111528]
+	org.openide.awt [7.59.1 201310111528]
+	org.netbeans.api.progress/1 [1.35.1 201310111528]
+	org.openide.dialogs [7.32.1 201310111528]
+	org.openide.nodes [7.36.1 201310111528]
+	org.openide.windows [6.65.1 201310111528]
+	org.netbeans.modules.editor.mimelookup/1 [1.33.1 201310111528]
+	org.openide.text [6.58.1 201310111528]
+	org.netbeans.swing.tabcontrol [1.46.1 201310111528]
+	org.netbeans.swing.outline [1.27.1 201310111528]
+	org.openide.explorer [6.53.1 201310111528]
+	org.openide.actions [6.32.1 201310111528]
+	org.netbeans.modules.queries/1 [1.36.1 201310111528]
+	org.openide.loaders [7.51.1 201310111528]
+	org.openide.io [1.42.1 201310111528]
+	org.netbeans.swing.plaf [1.34.1 201310111528]
+	org.netbeans.swing.colorchooser [1.0 150424]
+	org.netbeans.spi.quicksearch [1.20.1 201310111528]
+	org.netbeans.bootstrap/1 [2.63.1 201310111528]
+	org.netbeans.core.startup/1 [1.51.1 201310111528]
+	org.netbeans.modules.settings/1 [1.42.1 201310111528]
+	org.netbeans.paint [1.0 150424]
+	org.netbeans.modules.sampler [1.7.1 201310111528]
+	org.netbeans.modules.progress.ui [1.26.1 201310111528]
+	org.netbeans.modules.keyring [1.17.1 201310111528]
+	org.netbeans.core/2 [3.43.1 201310111528]
+	org.netbeans.modules.options.api/1 [1.36.1 201310111528]
+	org.netbeans.modules.options.keymap [1.28.1 201310111528]
+	org.netbeans.modules.masterfs/2 [2.44.1 201310111528]
+	org.netbeans.libs.jna/1 [1.31.1 201310111528]
+	org.netbeans.modules.masterfs.windows [1.7.1 201310111528]
+	org.netbeans.modules.keyring.fallback [1.1.1 201310111528]
+	org.netbeans.modules.keyring.impl [1.14.1 201310111528]
+	org.netbeans.modules.editor.mimelookup.impl/1 [1.24.1 201310111528]
+	org.netbeans.libs.jna.platform/1 [1.1.1 201310111528]
+	org.netbeans.core.windows/2 [2.66.1 201310111528]
+	org.netbeans.core.network [1.1.1 201310111528]
+	org.netbeans.core.nativeaccess/1 [1.23.1 201310111528]
+	org.netbeans.core.multitabs [1.3.3.1 1 201310111528]
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Windows
+INFO [org.netbeans.core.network.proxy.windows.WindowsNetworkProxy]: Windows system proxy resolver: auto detect
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: direct
+INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy: falled to default (corect if direct mode went before)
+WARNING [org.netbeans.ProxyClassLoader]: Should not use initial / in calls to ClassLoader.getResource(s): /org/netbeans/paint/new_icon.png
+WARNING [org.openide.util.ImageUtilities]: Initial slashes in Utilities.loadImage deprecated (cf. #20072): /org/netbeans/paint/new_icon.png
+WARNING [org.netbeans.ProxyClassLoader]: Should not use initial / in calls to ClassLoader.getResource(s): /org/netbeans/paint/new_icon24.png
+WARNING [org.openide.util.ImageUtilities]: Initial slashes in Utilities.loadImage deprecated (cf. #20072): /org/netbeans/paint/new_icon24.png
+WARNING [org.netbeans.ProxyClassLoader]: Should not use initial / in calls to ClassLoader.getResource(s): /org/netbeans/paint/new_icon24_pressed.png
+WARNING [org.netbeans.ProxyClassLoader]: Should not use initial / in calls to ClassLoader.getResource(s): /org/netbeans/paint/new_icon_pressed.png
+WARNING [org.netbeans.ProxyClassLoader]: Should not use initial / in calls to ClassLoader.getResource(s): /org/netbeans/paint/new_icon24_rollover.png
+WARNING [org.netbeans.ProxyClassLoader]: Should not use initial / in calls to ClassLoader.getResource(s): /org/netbeans/paint/new_icon_rollover.png
+WARNING [org.netbeans.ProxyClassLoader]: Should not use initial / in calls to ClassLoader.getResource(s): /org/netbeans/paint/new_icon24_disabled.png
+WARNING [org.netbeans.ProxyClassLoader]: Should not use initial / in calls to ClassLoader.getResource(s): /org/netbeans/paint/new_icon_disabled.png
+WARNING [org.netbeans.ProxyClassLoader]: Should not use initial / in calls to ClassLoader.getResource(s): /org/netbeans/paint/new_icon24_selected.png
+WARNING [org.netbeans.ProxyClassLoader]: Should not use initial / in calls to ClassLoader.getResource(s): /org/netbeans/paint/new_icon_selected.png
+WARNING [org.netbeans.ProxyClassLoader]: Should not use initial / in calls to ClassLoader.getResource(s): /org/netbeans/paint/new_icon24_rolloverSelected.png
+WARNING [org.netbeans.ProxyClassLoader]: Should not use initial / in calls to ClassLoader.getResource(s): /org/netbeans/paint/new_icon_rolloverSelected.png
+WARNING [org.netbeans.ProxyClassLoader]: Should not use initial / in calls to ClassLoader.getResource(s): /org/netbeans/paint/new_icon24_disabledSelected.png
+WARNING [org.netbeans.ProxyClassLoader]: Should not use initial / in calls to ClassLoader.getResource(s): /org/netbeans/paint/new_icon_disabledSelected.png
+INFO [org.netbeans.ui.metrics.laf]: USG_LOOK_AND_FEEL
+WARNING [org.openide.filesystems.Ordering]: Not all children in Menu/Window/ marked with the position attribute: [Tools], but some are: [org-netbeans-paint-PaintTopComponent.shadow, SwitchToRecentDocumentAction.shadow, SeparatorBeforeFullscreen.instance, ToggleFullScreenAction.shadow, Separator3.instance, ConfigureWindow, org-netbeans-core-windows-actions-ResetWindowsAction.shadow, Separator4.instance, CloseWindowAction.shadow, CloseAllDocumentsAction.shadow, CloseAllButThisAction.shadow, DocumentsAction.shadow]
+WARNING [java.util.prefs]: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.home has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.Clusters.relativeDirsWithHome(Clusters.java:137)
